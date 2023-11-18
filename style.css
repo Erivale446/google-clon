@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+/* id= lupa  cuando sea par un solo elemento */
+#lupa {
+    color: gray;
+}
+
+/* class icono cuando sea para uno o mas elementos */
+
+.icono{
+    width: 30px;
+    height: 30px;
+}
